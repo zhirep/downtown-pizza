@@ -4,6 +4,12 @@ body {
   padding: 20px;
 }
 
+.main-card {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+}
+
 .card {
   background: white;
   padding: 20px;
